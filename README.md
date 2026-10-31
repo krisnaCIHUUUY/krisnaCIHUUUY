@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisnacihuuuy&label=Profile%20views&color=0e75b6&style=flat" alt="krisnacihuuuy" /> </p>
 
-- Saya sedang mengerjakan [Henshinn, aplikasi kasir (POS) offline untuk toko UMKM](https://github.com/krisnaCIHUUUY/henshinn)
+- Saya sedang mengerjakan [Henshinn, aplikasi kasir (POS) offline untuk toko UMKM](https://github.com/krisnaCIHUUUY/henshinn) untuk tugas kuliah 
 
 - 🌱 Sedang belajar **Backend development dengan Java dan UI/UX design dengan Figma**
 
